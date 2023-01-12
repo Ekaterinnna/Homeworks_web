@@ -2,5 +2,5 @@ function greeting(name) {
     console.log("Привет, " + name);
   }
 
-var name = prompt("Как твое имя?")
+var name = prompt("Введите Ваше имя?")
 greeting(name)
